@@ -5,4 +5,4 @@
 # TypeScript - Classes e Interfaces - POO
 
 - Classes
-- Herança
+- Herança e Polimorfismo
