@@ -9,3 +9,7 @@
 - Super Classes
 - Protected
 - Getter e Setter
+- Constructor Private
+- Abstração
+- Associação de classes
+<img src="./associação-classes/Associação.png" width="600">
